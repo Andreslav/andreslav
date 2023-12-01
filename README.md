@@ -1,6 +1,6 @@
 ### Всем привет 👋 Я дизайнер, который кодит.
 
-## GitHub Stats
+## Статистика GitHub
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&theme=dark&locale=ru"
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&locale=ru" />
 </picture>
 
-## Top Languages
+## Топ языков
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreslav&layout=compact&theme=dark&locale=ru&card_width=380"
