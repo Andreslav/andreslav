@@ -3,27 +3,27 @@
 ## GitHub Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&theme=dark&locale=ru"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&locale=ru"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&locale=ru" />
 </picture>
 
 ## Top Languages
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreslav&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreslav&layout=compact&theme=dark&locale=ru&card_width=380"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreslav&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreslav&layout=compact&locale=ru&card_width=380"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreslav&show_icons=true&locale=ru&card_width=380" />
 </picture>
 
 <!--
